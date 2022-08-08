@@ -1,8 +1,0 @@
-<launch>
-    <node 
-        pkg="turtlesim" 
-        name="turtlesim_node" 
-        type="turtlesim_node" 
-        ns="/my_turtle"> 
-    </node>
-</launch>
