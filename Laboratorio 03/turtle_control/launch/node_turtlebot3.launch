@@ -1,9 +1,0 @@
-<launch>
-    <node 
-        pkg="turtle_control"
-        type="node_turtlebot3.py" 
-        name="node_turtlebot3"
-        output="screen"
-        >
-    </node>
-</launch>
